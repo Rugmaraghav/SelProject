@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T10:43:15 IST" name="Default suite" finished-at="2023-02-03T10:43:19 IST" duration-ms="4391">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T10:43:15 IST" name="Default test" finished-at="2023-02-03T10:43:19 IST" duration-ms="4391">
+      <class name="testng.Copypaste">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testng.Copypaste@4b0d79fc]" started-at="2023-02-03T10:43:15 IST" name="setup" finished-at="2023-02-03T10:43:17 IST" duration-ms="2192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlloading()[pri:0, instance:testng.Copypaste@4b0d79fc]" started-at="2023-02-03T10:43:17 IST" name="urlloading" finished-at="2023-02-03T10:43:18 IST" duration-ms="1303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlloading -->
+        <test-method signature="main()[pri:0, instance:testng.Copypaste@4b0d79fc]" started-at="2023-02-03T10:43:18 IST" name="main" finished-at="2023-02-03T10:43:19 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- testng.Copypaste -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
